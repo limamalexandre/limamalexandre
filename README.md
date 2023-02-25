@@ -3,7 +3,7 @@
 ### I'm a Software Developer!
 
 - 🔭 I’m currently working on Angular, HTML, CSS, Javascript, NodeJS.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and improving my knowledge in Java.
 
 ### Connect with me:
 
