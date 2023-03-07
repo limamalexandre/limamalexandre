@@ -1,9 +1,9 @@
 # Hi there, I'm Alexandre 👋
 
-### I'm a Full Stack Developer!
+### I'm a Frontend Developer!
 
 - 🔭 I’m currently working on Angular, HTML, CSS, Javascript, NodeJS.
-- 🌱 I’m currently learning React and improving my knowledge in Java.
+- 🌱 I’m currently learning React.
 
 ### Connect with me:
 
