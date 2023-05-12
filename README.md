@@ -3,7 +3,6 @@
 ### I'm a Full Stack Developer!
 
 - 🔭 I’m currently working on Angular, HTML, CSS, Javascript, NodeJS, Java.
-- 🌱 I’m currently learning React.
 
 ### Connect with me:
 
